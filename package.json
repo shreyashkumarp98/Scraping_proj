@@ -1,0 +1,19 @@
+{
+  "name": "webscrap_pup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scrape.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "glob": "^10.3.1",
+    "puppeteer": "^19.11.1",
+    "sqlite3": "^5.1.6"
+  },
+  "type": "module",
+  "types": "module"
+}
